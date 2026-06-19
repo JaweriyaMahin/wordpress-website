@@ -15,9 +15,9 @@ using Elastic Beanstalk and Amazon RDS.
 - download and configure wordpress
 - connect wordpress with RDS
 - verify the website deployment
-## PROJECT OUTCOME
+## PROJECT OUTCOME:
 successfully deployed the wordpress website on aws using elastic beanstalk and amazon RDS
-## PREPARED BY
+## PREPARED BY:
 # JAWERIYA-MAHIN
 
   
